@@ -4,8 +4,8 @@
  
 Classificação dos livros por genêro e ano de leitura:
 
-(https://user-images.githubusercontent.com/94999729/195717508-c840cbb5-c732-4d6d-9d37-e7aea1f6c20f.png)
+![Screenshot from 2022-10-13 17-35-20](https://user-images.githubusercontent.com/94999729/195718102-6668d802-548c-47c8-aa9e-50835498acee.png)
 
 Análise gráfica da quantidade de livros lidos no idioma portugês e inglês, separada por períodos:
 
-(https://user-images.githubusercontent.com/94999729/195717782-a655d17b-717c-4ca9-8148-4a6664309f7c.png)
+![Screenshot from 2022-10-13 17-34-20](https://user-images.githubusercontent.com/94999729/195718128-9092e56d-cba5-4bb7-8723-5d369b441264.png)
