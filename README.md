@@ -4,7 +4,7 @@
  
 Classificação dos livros por genêro e ano de leitura:
 
-file:///home/gerci/Pictures/Screenshots/Screenshot%20from%202022-10-13%2017-35-53.png![image](https://user-images.githubusercontent.com/94999729/195717508-c840cbb5-c732-4d6d-9d37-e7aea1f6c20f.png)
+(https://user-images.githubusercontent.com/94999729/195717508-c840cbb5-c732-4d6d-9d37-e7aea1f6c20f.png)
 
 Análise gráfica da quantidade de livros lidos no idioma portugês e inglês, separada por períodos:
 
