@@ -1,13 +1,11 @@
-# Análise descritiva de livros que li entre 2019
+# Análise descritiva de livrosque li entre 2020 e 2022.
 
- Está análise descritiva tem como propósito organizar os livros que eu li entre 2019 e 2022 para extração de informações acerca da quantidade, peridiocidade, idioma e genêro das obras.
+ Está análise descritiva tem como propósito organizar os livros que eu li entre 2020 e 2022 para extração de informações acerca da quantidade, peridiocidade, idioma e genêro das obras.
  
-![Screenshot from 2022-10-13 17-34-20](https://user-images.githubusercontent.com/94999729/195717222-bb6b9031-6a7d-4a30-9682-f8b916a7d7d7.png)
+Classificação dos livros por genêro e ano de leitura:
 
-![Screenshot from 2022-10-13 17-34-58](https://user-images.githubusercontent.com/94999729/195717256-bd2cb444-686e-4b53-9eb7-a243074d33d4.png)
+file:///home/gerci/Pictures/Screenshots/Screenshot%20from%202022-10-13%2017-35-53.png![image](https://user-images.githubusercontent.com/94999729/195717508-c840cbb5-c732-4d6d-9d37-e7aea1f6c20f.png)
 
-![Screenshot from 2022-10-13 17-35-20](https://user-images.githubusercontent.com/94999729/195717262-603677ca-afc2-4145-a868-27fbb286744f.png)
+Análise gráfica da quantidade de livros lidos no idioma portugês e inglês, separada por períodos:
 
-![Screenshot from 2022-10-13 17-35-53](https://user-images.githubusercontent.com/94999729/195717269-24f20019-f5e1-44cf-a044-c93c1c8d1f63.png)
-
-![Screenshot from 2022-10-13 17-34-20](https://user-images.githubusercontent.com/94999729/195717278-8c4d9d0c-2a8e-4d3b-b33b-e3625a55e9cd.png)
+file:///home/gerci/Pictures/Screenshots/Screenshot%20from%202022-10-13%2017-34-20.png![image](https://user-images.githubusercontent.com/94999729/195717782-a655d17b-717c-4ca9-8148-4a6664309f7c.png)
